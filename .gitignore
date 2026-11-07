@@ -1,0 +1,7 @@
+build/
+doomgeneric
+doomgeneric.map
+doomgeneric.gdb
+*.o
+*.apk
+sysroot/
